@@ -1,0 +1,3 @@
+Attachments API Test File
+File type: Text
+Extension: .txt
